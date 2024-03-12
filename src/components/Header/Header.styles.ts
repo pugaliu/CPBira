@@ -12,7 +12,8 @@ export const HeaderWrapperElement = styled.div`
   grid-template-columns: auto auto auto;
   align-items: center;
   justify-content: space-between;
-  width: 80%;
+  width: 100%;
+  color: white;
   margin: 0 auto;
 `;
 

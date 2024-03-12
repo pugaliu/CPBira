@@ -5,7 +5,7 @@ export const ProductWrapper = styled.div`
   flex-wrap: wrap;
   justify-content: space-between;
   gap: 40px;
-  margin-bottom: 2000px;
+  margin-bottom: 32px;
 `;
 
 export const ProductCategories = styled.div`

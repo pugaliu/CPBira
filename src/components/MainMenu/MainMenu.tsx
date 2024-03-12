@@ -4,7 +4,7 @@ import { MainMenuListElement, MainMenuListItemElement } from "./MainMenu.style";
 export const MainMenu = () => {
   const menuItems = [
     { id: 0, label: "Home", link: "/" },
-    { id: 1, label: "Cardápio", link: "/menu" },
+    { id: 1, label: "Cardápia", link: "/menu" },
     { id: 2, label: "Sobre", link: "/about" },
     { id: 3, label: "Contato", link: "/contact" },
   ];
